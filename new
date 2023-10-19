@@ -5,9 +5,11 @@
 # five edited
 # six edited
 <properties>
-  <spring.version-5.3.27>
-  <postgresql>42.4.3<postgresql>
+  <spring.version-5.3.26>
+  <postgresql>42.4.1<postgresql>
+  <common-compres>1.21</common-compres>
 </properties>
 <dependencies>
-  <spring-web reverted>
+  <!--<spring-web reverted>-->
+  <common-compress-version>
 </dependencies>
