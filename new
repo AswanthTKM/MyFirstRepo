@@ -4,3 +4,10 @@
 # four edited
 # five edited
 # six edited
+<properties>
+  <spring.version-5.3.26>
+  <postgresql>42.4.1<postgresql>
+</properties>
+<dependencies>
+  
+</dependencies>
