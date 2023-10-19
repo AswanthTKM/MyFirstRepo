@@ -9,5 +9,5 @@
   <postgresql>42.4.1<postgresql>
 </properties>
 <dependencies>
-  
+  <spring-web>
 </dependencies>
